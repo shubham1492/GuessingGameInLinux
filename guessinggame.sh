@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Progam to Play Guessing game
+
 #read the total file number of the current direcitory
 fileNumber=`ls -l . | egrep -c '^-'`
 
