@@ -1,4 +1,5 @@
 info:guessinggame.sh
+	touch README.md
 	echo "# Project Title: guessing game" > README.md
 	echo "# 'make' was run on:" >> README.md
 	date >> README.md
